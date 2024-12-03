@@ -1,12 +1,12 @@
-# Python Template for CS3 
+# Exploratory Data Analysis (EDA) Project Demo
 
-This repository provides a simple **template** with `Python` starter code. You can create your own copy by clicking `Use This Template` whenever you need to start a new Python program. For **unit notes**, **project instructions**, and **helpful resources**, refer to our course website: 📖 [PythonDocs](https://coderina.dev/pythondocs/)
+## Datasets
 
-> ⚠️ _DO NOT modify the following files:_ `.devcontainer`, `.vscode`
+- [MTA Colors](https://data.ny.gov/Transportation/MTA-Colors/3uhz-sej2/about_data)
 
-### 💻 Codespaces Instructions
-1. Click the green `<> Code` button in the top right area above the list of files
-2. Select the `Codespaces` tab and click `Open new Codespace on main`
-3. Wait for the Codespace to setup (_it will take some time because VSCode extensions are being installed_)
-4. After the extensions load, you can open `main.py` from the **File Explorer** menu on the left, and now you're ready to code!
-5. Always make sure to `commit changes` before closing a Codespace! 
+- [MTA Subway Stations](https://data.ny.gov/Transportation/MTA-Subway-Stations/39hk-dx4f/about_data)
+
+- [MTA Daily Ridership Data](https://data.ny.gov/Transportation/MTA-Daily-Ridership-Data-Beginning-2020/vxuj-8kew/about_data)
+
+- [MTA Key Performance Indicators](https://data.ny.gov/Transportation/MTA-Key-Performance-Indicators-2008-2021/cy9b-i9w9/about_data)
+
