@@ -1,0 +1,6 @@
+{
+  "editor.inlayHints.enabled": "off",
+  "code-runner.showExecutionMessage": false,
+  "code-runner.runInTerminal": true,
+  "editor.wordWrap": "on"
+}
